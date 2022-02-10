@@ -9,3 +9,8 @@ trac2_taskb- Hindi bert model trained on trac 2 hindi dataset- task B
 
 
 trac1_hinbert- Hindi bert model trained on trac 1 hindi datase
+
+
+goldbecktwtrobertabase.ipynb:
+dataset: goldbeck,eng
+model:roberta twitter
