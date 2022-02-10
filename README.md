@@ -7,7 +7,7 @@ tfidf_ml_models_english-Logistic Regression, SVM, Gradient boosting, Multinomial
 
 trac2_taskb.ipynb:
 
-dataset: trac 2 shared task, task B
+dataset: trac 2 shared task B, hin
 
 link:https://sites.google.com/view/trac2/shared-task
 
@@ -15,7 +15,7 @@ fine-tuned on:rohanrajpal/bert-base-en-hi-codemix-cased
 
 trac1_hinbert.ipynb:
 
-dataset:trac1 hindi shared task
+dataset:trac1 hindi shared task,hin
 
 link:https://sites.google.com/view/trac1/shared-task
 
