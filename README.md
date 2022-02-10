@@ -4,6 +4,7 @@ Bert_finetuned_hateeval.ipynb- Bert model fine-tuned on HateEval dataset
 
 tfidf_ml_models_english-Logistic Regression, SVM, Gradient boosting, Multinomial NB algorithms trained on HateEval dataset
 
+HINDI:
 
 trac2_taskb.ipynb:
 
@@ -20,6 +21,8 @@ dataset:trac1 hindi shared task,hin
 link:https://sites.google.com/view/trac1/shared-task
 
 fine-tuned on: rohanrajpal/bert-base-en-hi-codemix-cased
+
+ENGLISH:
 
 goldbecktwtrobertabase.ipynb:
 
