@@ -22,6 +22,15 @@ link:https://sites.google.com/view/trac1/shared-task
 
 fine-tuned on: rohanrajpal/bert-base-en-hi-codemix-cased
 
+
+HASOC20_hinbert.ipynb:
+
+dataset:HASOC hindi shared task A ,hin
+
+link:
+
+fine-tuned on: rohanrajpal/bert-base-en-hi-codemix-cased
+
 ENGLISH:
 
 goldbecktwtrobertabase.ipynb:
