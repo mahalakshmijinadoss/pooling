@@ -25,12 +25,18 @@ goldbecktwtrobertabase.ipynb:
 
 dataset: goldbeck,eng
 
-link:http://www.cs.umd.edu/~golbeck/papers/trolling.pdf
+link:http://www.cs.umd.edu/~golbeck/papers/trolling.pdf(data obtained from author)
+
+fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
+
+dataset: davidson,eng
+
+link:https://github.com/t-davidson/hate-speech-and-offensive-language
 
 fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
 
 dataset: founta,eng
 
-link:https://github.com/t-davidson/hate-speech-and-offensive-language
+link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nqb4EKEAAAAJ&citation_for_view=Nqb4EKEAAAAJ:d1gkVwhDpl0C (data obtained from author)
 
 fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
