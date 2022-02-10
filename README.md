@@ -37,6 +37,6 @@ fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
 
 dataset: founta,eng
 
-link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Nqb4EKEAAAAJ&citation_for_view=Nqb4EKEAAAAJ:d1gkVwhDpl0C (data obtained from author)
+link:https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17909/17041 (data obtained from author)
 
 fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
