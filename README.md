@@ -13,4 +13,5 @@ trac1_hinbert- Hindi bert model trained on trac 1 hindi datase
 
 goldbecktwtrobertabase.ipynb:
 dataset: goldbeck,eng
+link:http://www.cs.umd.edu/~golbeck/papers/trolling.pdf
 model:roberta twitter
