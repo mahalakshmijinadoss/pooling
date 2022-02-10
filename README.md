@@ -33,6 +33,14 @@ fine-tuned on: rohanrajpal/bert-base-en-hi-codemix-cased
 
 ENGLISH:
 
+trac1engtwtrobertabase.ipynb:
+
+dataset: trac1 shared task,eng
+
+link:
+
+fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
+
 goldbecktwtrobertabase.ipynb:
 
 dataset: goldbeck,eng
