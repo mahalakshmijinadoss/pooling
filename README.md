@@ -28,3 +28,9 @@ dataset: goldbeck,eng
 link:http://www.cs.umd.edu/~golbeck/papers/trolling.pdf
 
 fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
+
+dataset: founta,eng
+
+link:https://github.com/t-davidson/hate-speech-and-offensive-language
+
+fine-tuned on:cardiffnlp/twitter-roberta-base-sep2021
